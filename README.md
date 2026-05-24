@@ -38,7 +38,7 @@ Measurement or isolation between E and H arms 3.1 Set the attenuator around 20dB
 Experimental setup for demonstrating the 3 dB power division in the collinear arms. 4.1 Now the power input be either E or H arms. 4.2 Set the attenuator to get reference reading on SWR meter without the componentunder test. Note the attenuator setting (A1) dB 4.3 Connect the component under test(Magic tee) 4.4 Reduce the attenuation to get the reference reading obtained in step 4.2 4.5 Note down the attenuator setting (A2) dB
 The difference in the attenuator settings gives the ration of the power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-## Observation: ( Include your own Table relevant to the Experiment)
+## Observation: 
 
 Isolation measurement (Tabulation)
 
@@ -46,12 +46,12 @@ Measurement of power division (Tabulation)
 <img width="1077" height="593" alt="image" src="https://github.com/user-attachments/assets/2dc0d97d-4ca0-4a2b-b1a8-a06342e38a1a" />
 
 
-## Analysis of Results: (Write your own)
+## Analysis of Results: 
 
 (Include sample calculations/Display/plot/typical graph)
 <img width="1031" height="385" alt="image" src="https://github.com/user-attachments/assets/69f4fbb3-2adb-4baa-9195-72bd31a0ecb4" />
 
-## Conclusions: (Write your Own)
+## Conclusions: 
 
 Isolation between E and H arms (dB) = (A1 – A2) dB Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
